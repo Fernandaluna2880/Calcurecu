@@ -1,0 +1,10 @@
+
+  .operador {
+    background-color: #a6adbd;
+    cursor: pointer;
+  }
+
+  .operador:hover{
+    background-color: #828793;
+  }
+  
